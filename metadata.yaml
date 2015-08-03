@@ -23,10 +23,10 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:City and town life -- Fiction'
-- '!lcsh:Ohio -- Social life and customs -- Fiction'
-- '!lcsh:Pastoral fiction'
-- '!lcc:PS'
+- '!lcsh: Ohio -- Social life and customs -- Fiction'
+- '!lcsh: City and town life -- Fiction'
+- '!lcc: PS'
+- '!lcsh: Pastoral fiction'
 tableOfContents: The book of the grotesque -- Hands -- Paper pills -- Mother -- The
   philosopher -- Nobody knows -- Godliness -- A man of ideas -- Adventure -- Respectability
   -- The thinker -- Tandy -- The strength of God -- The teacher -- Loneliness -- An
