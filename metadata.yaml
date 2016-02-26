@@ -1,5 +1,5 @@
 _repo: Winesburg-Ohio--A-Group-of-Tales-of-Ohio-Small-Town-Life_416
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Hanna Norris, 2015
   cover_type: original
@@ -29,6 +29,7 @@ subjects:
 - '!lcsh: City and town life -- Fiction'
 - '!lcc: PS'
 - '!lcsh: Pastoral fiction'
+- GITenberg
 tableOfContents: The book of the grotesque -- Hands -- Paper pills -- Mother -- The
   philosopher -- Nobody knows -- Godliness -- A man of ideas -- Adventure -- Respectability
   -- The thinker -- Tandy -- The strength of God -- The teacher -- Loneliness -- An
